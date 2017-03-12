@@ -1,0 +1,40 @@
+body {
+    background-color: blue;
+}
+
+.buttonContainer {
+    max-width: 100%;
+}
+
+#buttonsDiv {
+    width: 100%;
+    text-align: center;
+}
+
+.searchBox {
+    border: solid 3px black;
+    width: auto;
+    margin-left: 30%;
+    padding: 5px;
+}
+
+#userInputForm {
+    margin: 4px;
+}
+
+#userInput:hover {
+    border: solid 2px black;
+}
+
+#submitUserData {
+    font-size: 1.2em;
+}
+
+.buttons {
+    margin: 4px;
+    background-color: black;
+}
+
+.itemImg {
+    max-width: 100%
+}
